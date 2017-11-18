@@ -1,0 +1,22 @@
+body {
+	background-color: #B4EAE3;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+/* Ce code n'avait aucune incidence sur la taille de l'image, je l'ai donc mis dans le HTML en attendant de trouver une solution
+img {
+	max-width: 10px;
+	max-height: auto;
+} */
+
+.boutonconnexion {
+	background-color: #EFBBE3;
+	font-style: bold;
+}
+
+#connexionutilisateur {
+	margin-left: auto;
+  	margin-right: auto;
+} 
+
